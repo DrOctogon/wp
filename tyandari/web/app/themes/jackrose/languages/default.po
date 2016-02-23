@@ -1,0 +1,1701 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Jack & Rose\n"
+"POT-Creation-Date: 2016-01-08 17:55+0700\n"
+"PO-Revision-Date: 2016-01-08 17:55+0700\n"
+"Last-Translator: David Rozando <david.rozando@gmail.com>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: comments.php:31 inc/template-tags.php:54
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:78
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:38 inc/singlestroke.php:170
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:39 inc/singlestroke.php:171
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:40 inc/singlestroke.php:172
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:41 inc/singlestroke.php:173
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:42
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:43
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:44
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:45
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:46
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:47
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:48
+msgid "Bloglovin&#39;"
+msgstr ""
+
+#: functions.php:49
+msgid "Behance"
+msgstr ""
+
+#: functions.php:50
+msgid "RSS"
+msgstr ""
+
+#: functions.php:55
+msgid "Body"
+msgstr ""
+
+#: functions.php:56
+msgid "Headings (h1 - h6)"
+msgstr ""
+
+#: functions.php:57
+msgid "Section heading"
+msgstr ""
+
+#: functions.php:58
+msgid "Menu"
+msgstr ""
+
+#: functions.php:89
+msgid "Kirki Toolkit"
+msgstr ""
+
+#: functions.php:96
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: functions.php:101
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: functions.php:106
+msgid "Attachments"
+msgstr ""
+
+#: functions.php:111
+#: siteorigin/widgets/jackrose-so-rsvp-form/jackrose-so-rsvp-form.php:25
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:116
+msgid "Contact Form DB"
+msgstr ""
+
+#: functions.php:134
+msgid "Required Plugins"
+msgstr ""
+
+#: functions.php:162 header.php:101
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:197 inc/customizer.php:471
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:309
+msgid "Hero Slider"
+msgstr ""
+
+#: functions.php:315
+msgid ""
+"Add background image / video into a fullscreen hero slider. Leave it blank "
+"also means disabling the hero section. Adding video: upload 3 formats, mp4, "
+"ogv / ogg, webm with the same filename. Select only one of them, the "
+"template will automatically call the other formats. To add hero logo, go to "
+"Appearance > Hero > Hero Logo."
+msgstr ""
+
+#: functions.php:317
+msgid "Add Images / Videos"
+msgstr ""
+
+#: functions.php:318
+msgid "Add Files"
+msgstr ""
+
+#: functions.php:325
+msgid "Enable parallax scrolling"
+msgstr ""
+
+#: functions.php:328
+msgid "yes"
+msgstr ""
+
+#: functions.php:329
+msgid "no"
+msgstr ""
+
+#: functions.php:336
+msgid "Overlay Color (format: rgba, e.g. \"rgba(0,0,0,0)\")"
+msgstr ""
+
+#: functions.php:341
+msgid "Video Poster URL (fallback image on mobile devices)"
+msgstr ""
+
+#: header.php:59
+msgid "Skip to content"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:828
+#: inc/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:935
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:935
+#: inc/class-tgm-plugin-activation.php:938
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:938
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1116
+#: inc/class-tgm-plugin-activation.php:2828
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1881
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2235
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2280
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2283
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2286
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2289
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2371
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2422
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2438
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:60
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2491
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2495
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2500
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3362
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3364
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3365
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3369
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3370
+#: inc/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3372
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3375
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3376
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3378
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Show preloader on"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "One Page template pages"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Standard pages"
+msgstr ""
+
+#: inc/customizer.php:31 inc/customizer.php:144 inc/customizer.php:312
+msgid "BG color"
+msgstr ""
+
+#: inc/customizer.php:38
+msgid "Preloader logo"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Recommended to have the same dimension as hero logo."
+msgstr ""
+
+#: inc/customizer.php:48
+msgid "Page builder animation"
+msgstr ""
+
+#: inc/customizer.php:49
+msgid ""
+"Jack & Rose Page Builder elements has option to enable \"animation\" (when "
+"element entering the page). Uncheck this option would disable all animations "
+"configured in the Page Builder."
+msgstr ""
+
+#: inc/customizer.php:56
+msgid "Color accent"
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Button BG color"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Button text color"
+msgstr ""
+
+#: inc/customizer.php:77
+msgid "Button BG color (hover)"
+msgstr ""
+
+#: inc/customizer.php:84
+msgid "Button text color (hover)"
+msgstr ""
+
+#: inc/customizer.php:91
+msgid "Font subsets"
+msgstr ""
+
+#: inc/customizer.php:99
+msgid "Body font family"
+msgstr ""
+
+#: inc/customizer.php:100
+msgid "Used in normal paragraphs."
+msgstr ""
+
+#: inc/customizer.php:108
+msgid "Section heading font family"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Used in section heading."
+msgstr ""
+
+#: inc/customizer.php:117
+msgid "Headings font family"
+msgstr ""
+
+#: inc/customizer.php:118
+msgid "Used in normal headings (h1 - h6)."
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Menu & button font family"
+msgstr ""
+
+#: inc/customizer.php:127
+msgid "Used in header navigation and button."
+msgstr ""
+
+#: inc/customizer.php:135
+msgid "Changing font sizes etc."
+msgstr ""
+
+#: inc/customizer.php:136
+#, php-format
+msgid ""
+"To customize font size, line height, etc, please use Custom CSS. Adding "
+"those options into this Theme Options page will make the page bloated and "
+"hurt performance. We also recommend %s plugin for customizing CSS with a "
+"nice visual preview."
+msgstr ""
+
+#: inc/customizer.php:136 inc/customizer.php:426
+msgid "SiteOrigin CSS Editor"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Border color"
+msgstr ""
+
+#: inc/customizer.php:158 inc/customizer.php:326
+msgid "Link color"
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Link hover color"
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Link hover border"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "Ribbon BG"
+msgstr ""
+
+#: inc/customizer.php:186 inc/customizer.php:201
+msgid "Ribbon text"
+msgstr ""
+
+#: inc/customizer.php:193
+msgid "Header logo"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Max width: 60px, max height: 50px;"
+msgstr ""
+
+#: inc/customizer.php:202
+msgid "Leave it blank to hide the ribbon."
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Ribbon target URL"
+msgstr ""
+
+#: inc/customizer.php:218
+msgid "Hero section position"
+msgstr ""
+
+#: inc/customizer.php:220
+msgid "Below header"
+msgstr ""
+
+#: inc/customizer.php:221
+msgid "Above header"
+msgstr ""
+
+#: inc/customizer.php:229
+msgid "Hero logo"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "Only displayed in a page with hero images or videos."
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Hero slider autoplay (seconds)"
+msgstr ""
+
+#: inc/customizer.php:238
+msgid "Set to 0 to disable autoplay"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Effect"
+msgstr ""
+
+#: inc/customizer.php:247
+msgid "No effect"
+msgstr ""
+
+#: inc/customizer.php:248
+msgid "Sakura petal"
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Snow"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid "Effect color"
+msgstr ""
+
+#: inc/customizer.php:264
+msgid "Hero button text"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Leave it blank to hide the button."
+msgstr ""
+
+#: inc/customizer.php:266
+msgid "Enter Site"
+msgstr ""
+
+#: inc/customizer.php:272
+msgid "Hero button target URL"
+msgstr ""
+
+#: inc/customizer.php:273
+msgid ""
+"Fill with #[section-id] to enable smooth scrolling to the targeted section, "
+"e.g. #contact or #rsvp."
+msgstr ""
+
+#: inc/customizer.php:280
+msgid "Hero button color"
+msgstr ""
+
+#: inc/customizer.php:289
+msgid "Show sidebar on default pages"
+msgstr ""
+
+#: inc/customizer.php:291
+msgid "Posts index home page"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Archive pages"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "Search page"
+msgstr ""
+
+#: inc/customizer.php:294
+msgid "Single post page"
+msgstr ""
+
+#: inc/customizer.php:295
+msgid "Other default pages"
+msgstr ""
+
+#: inc/customizer.php:303
+msgid "Sidebar on pages"
+msgstr ""
+
+#: inc/customizer.php:304
+msgid ""
+"To disable sidebar on Pages, please select \"One Page\" or \"Full Width\" "
+"page template in the Page editor."
+msgstr ""
+
+#: inc/customizer.php:319
+msgid "Text color"
+msgstr ""
+
+#: inc/customizer.php:333
+msgid "BG image"
+msgstr ""
+
+#: inc/customizer.php:340
+msgid "BG size"
+msgstr ""
+
+#: inc/customizer.php:342
+msgid "auto"
+msgstr ""
+
+#: inc/customizer.php:343
+msgid "cover"
+msgstr ""
+
+#: inc/customizer.php:344
+msgid "contain"
+msgstr ""
+
+#: inc/customizer.php:352
+msgid "BG repeat"
+msgstr ""
+
+#: inc/customizer.php:354
+msgid "no repeat"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "repeat X"
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "repeat Y"
+msgstr ""
+
+#: inc/customizer.php:357
+msgid "repeat both"
+msgstr ""
+
+#: inc/customizer.php:365
+msgid "BG position"
+msgstr ""
+
+#: inc/customizer.php:367
+msgid "left top"
+msgstr ""
+
+#: inc/customizer.php:368
+msgid "left center"
+msgstr ""
+
+#: inc/customizer.php:369
+msgid "left bottom"
+msgstr ""
+
+#: inc/customizer.php:370
+msgid "center top"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "center center"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "center bottom"
+msgstr ""
+
+#: inc/customizer.php:373
+msgid "right top"
+msgstr ""
+
+#: inc/customizer.php:374
+msgid "right center"
+msgstr ""
+
+#: inc/customizer.php:375
+msgid "right bottom"
+msgstr ""
+
+#: inc/customizer.php:383
+msgid "Padding"
+msgstr ""
+
+#: inc/customizer.php:384
+msgid "Follows the standard CSS format for padding attribute."
+msgstr ""
+
+#: inc/customizer.php:391
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:398
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:400
+#, php-format
+msgid "Copyright &copy; 2015 &mdash; designed by %s"
+msgstr ""
+
+#: inc/customizer.php:411 inc/customizer.php:498
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:412
+msgid ""
+"Your custom CSS to override the default style or anything which can not be "
+"configured via this Customizer"
+msgstr ""
+
+#: inc/customizer.php:425
+msgid "Using visual CSS editor"
+msgstr ""
+
+#: inc/customizer.php:426
+#, php-format
+msgid ""
+"We recommend %s plugin if you want to make custom CSS changes with "
+"interactive UI to select the elements."
+msgstr ""
+
+#: inc/customizer.php:439
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer.php:444 inc/customizer.php:454 inc/customizer.php:481
+msgid "Styles"
+msgstr ""
+
+#: inc/customizer.php:449
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:460 inc/customizer.php:487
+msgid "Content"
+msgstr ""
+
+#: inc/customizer.php:466
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer.php:476
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:493
+msgid "Social Media Settings"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Please install Kirki Toolkit plugin to customize this theme"
+msgstr ""
+
+#: inc/helpers.php:202
+msgid "-- none --"
+msgstr ""
+
+#: inc/singlestroke.php:23
+msgid "Rate this theme!"
+msgstr ""
+
+#: inc/singlestroke.php:101
+#, php-format
+msgid "%s Dashboard"
+msgstr ""
+
+#: inc/singlestroke.php:122
+#, php-format
+msgid "Welcome to %s %s"
+msgstr ""
+
+#: inc/singlestroke.php:125
+msgid ""
+"Thanks for choosing us! We at Single Stroke are very confident that you'll "
+"be delighted with our design and features. We couldn't be happier knowing "
+"our customers love our products."
+msgstr ""
+
+#: inc/singlestroke.php:129
+#, php-format
+msgid "You are running a Child Theme version of %s."
+msgstr ""
+
+#: inc/singlestroke.php:137
+msgid "Features List"
+msgstr ""
+
+#: inc/singlestroke.php:138
+msgid ""
+"Check the features list and the demo site to get you more familiar with the "
+"theme's features."
+msgstr ""
+
+#: inc/singlestroke.php:139
+msgid "See Features and Demo"
+msgstr ""
+
+#: inc/singlestroke.php:143
+msgid "Documentation"
+msgstr ""
+
+#: inc/singlestroke.php:144
+msgid ""
+"Our documentation page helps you to get started and includes some short "
+"tutorials on setting up the theme."
+msgstr ""
+
+#: inc/singlestroke.php:145
+msgid "Documentation page is included in the download package."
+msgstr ""
+
+#: inc/singlestroke.php:145
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/singlestroke.php:149
+msgid "Need help?"
+msgstr ""
+
+#: inc/singlestroke.php:150
+msgid ""
+"If you need more specific helps, we are always on hand to help you. Feel "
+"free to ask for supports."
+msgstr ""
+
+#: inc/singlestroke.php:151
+msgid "Ask for Support"
+msgstr ""
+
+#: inc/singlestroke.php:155
+msgid "Get featured now"
+msgstr ""
+
+#: inc/singlestroke.php:156
+msgid ""
+"Feel satisfied with the final result? Drop us a line, we would feature your "
+"site in our \"Best Showcases\" section."
+msgstr ""
+
+#: inc/singlestroke.php:157
+msgid "Rate / Comment"
+msgstr ""
+
+#: inc/singlestroke.php:161
+msgid "Subscribe Updates"
+msgstr ""
+
+#: inc/singlestroke.php:162
+msgid ""
+"Get instant updates and info about our products directly right into your "
+"inbox. Don't worry, we don't spam."
+msgstr ""
+
+#: inc/singlestroke.php:163
+msgid "Sign Up Newsletter"
+msgstr ""
+
+#: inc/singlestroke.php:167
+msgid "Connect with us"
+msgstr ""
+
+#: inc/singlestroke.php:168
+msgid ""
+"We are also sharing good stuffs on Facebook, Twitter, Instagram, and "
+"Pinterest. Follow us and keep in touch."
+msgstr ""
+
+#: inc/template-tags.php:41
+#, php-format
+msgid "Posted by %s"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:46 template-parts/content-single.php:36
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:54
+msgid "% Comments"
+msgstr ""
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:61 template-parts/content-page.php:32
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: siteorigin/configurations.php:27 siteorigin/configurations.php:44
+msgid "Anchor ID"
+msgstr ""
+
+#: siteorigin/configurations.php:30 siteorigin/configurations.php:47
+msgid ""
+"Used in Smooth Scrolling navigation. Please enter alphanumeric, dash ( _ ), "
+"and hyphen ( - ) only."
+msgstr ""
+
+#: siteorigin/configurations.php:35
+msgid "Jackrose Parallax"
+msgstr ""
+
+#: siteorigin/configurations.php:53
+msgid "Animation"
+msgstr ""
+
+#: siteorigin/configurations.php:56
+msgid "Widget's enter (inview) animation."
+msgstr ""
+
+#: siteorigin/configurations.php:58
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:80
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:57
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:83
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:56
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:78
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:39
+msgid "Disabled"
+msgstr ""
+
+#: siteorigin/configurations.php:59
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:81
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:58
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:84
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:57
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:79
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:40
+msgid "Fade In"
+msgstr ""
+
+#: siteorigin/configurations.php:60
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:82
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:59
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:85
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:58
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:80
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:41
+msgid "Fade In Up"
+msgstr ""
+
+#: siteorigin/configurations.php:106
+msgid "Jack & Rose"
+msgstr ""
+
+#: siteorigin/configurations.php:169
+msgid "Home"
+msgstr ""
+
+#: siteorigin/configurations.php:170
+msgid "Jack & Rose Home Layout"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:15
+msgid "Jack & Rose: About Us Grid"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:17
+msgid "Lists of personal description in grid layout."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:26
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:24
+msgid "People List"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:27
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:25
+msgid "Person"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:36
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:34
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:39
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:38
+msgid "Name"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:40
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:38
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:40
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:25
+msgid "Photo"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:45
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:45
+msgid "Description"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:50
+msgid "Social media links"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:51
+msgid "Link"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:65
+msgid "URL"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:71
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:61
+msgid "BG Color"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:77
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:54
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:80
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:53
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:75
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:36
+msgid "Item Animation"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-about-us-grid/jackrose-so-about-us-grid.php:78
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:55
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:81
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:54
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:76
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:37
+msgid "Custom enter animation for each item."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:13
+msgid "Jack & Rose: Buttons"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:15
+msgid "Pre-styled button."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:24
+msgid "Buttons List"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:25
+msgid "Button"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:34
+msgid "Button Text"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:38
+msgid "Button Link"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:44
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:123
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:70
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:44
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:43
+msgid "Alignment"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:46
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:125
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:72
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:46
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:45
+msgid "Left"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:47
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:126
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:73
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:47
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:46
+msgid "Center"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-buttons/jackrose-so-buttons.php:48
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:127
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:74
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:48
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:47
+msgid "Right"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:13
+msgid "Jack & Rose: Countdown"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:15
+msgid "Contdown block."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:24
+msgid "Target Date/Time"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:25
+msgid "format: YYYY/MM/DD hh:mm:ss, e.g. 2016/02/14 17:30:00"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:29
+msgid "Build"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:31
+msgid "months - days - hours - minutes - seconds"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:32
+msgid "days - hours - minutes - seconds"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:33
+msgid "months - days"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:38
+msgid "Months"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:43
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:60
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:77
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:94
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:111
+msgid "Label Singular"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:44
+msgid "month"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:48
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:65
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:82
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:99
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:116
+msgid "Label Plural"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:49
+msgid "months"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:55
+msgid "Days"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:61
+msgid "day"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:66
+msgid "days"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:72
+msgid "Hours"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:78
+msgid "hour"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:83
+msgid "hours"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:89
+msgid "Minutes"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:95
+msgid "minute"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:100
+msgid "minutes"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:106
+msgid "Seconds"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:112
+msgid "second"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-countdown/jackrose-so-countdown.php:117
+msgid "seconds"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:13
+msgid "Jack & Rose: Couple Intro"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:15
+msgid "Introduction block contains photos and event summary."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:24
+msgid "Order"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:26
+msgid "Groom - Bride"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:27
+msgid "Bride - Groom"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:32
+msgid "Groom"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:36
+msgid "Groom's photo"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:37
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:53
+msgid "Please upload in actual size, recommended size is 240x240px."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:42
+msgid "Groom's name"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:48
+msgid "Bride"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:52
+msgid "Bride's photo"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:58
+msgid "Bride's name"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:64
+msgid "Separator image"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-couple-intro/jackrose-so-couple-intro.php:65
+msgid "Please upload in actual size."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:13
+msgid "Jack & Rose: Crew"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:15
+msgid "Lists of crew members."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-crew/jackrose-so-crew.php:45
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:67
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:47
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:28
+msgid "Number of columns"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:15
+msgid "Jack & Rose: Event Grid"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:17
+msgid "Event boxes in grid layout."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:26
+msgid "Events"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:27
+msgid "Event"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:36
+msgid "Event title"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:50
+msgid "Summary"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:51
+msgid "Contains event summary: when & where the event will be held."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:55
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:48
+msgid "Icon"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-event-grid/jackrose-so-event-grid.php:56
+msgid "Max size: 60x60px"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:13
+msgid "Jack & Rose: Gallery Grid"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:15
+msgid "Photo gallery in grid layout."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:24
+msgid "Photos"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:35
+msgid "Image"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:40
+msgid "Filter keywords"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:41
+msgid "Comma separated keywords, e.g. \"Engagement, Selfie, Trip\"."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:55
+msgid "Show filter buttons"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:59
+msgid "Label for \"All photos\""
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-gallery-grid/jackrose-so-gallery-grid.php:60
+msgid "All photos"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:13
+msgid "Jack & Rose: Google Maps"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:15
+msgid "Gooble Maps with pin locations."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:24
+msgid "Default center point coordinate"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:25
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:44
+msgid "Format: [latitude], [longitude]. e.g. \"-7.966620, 112.632632\""
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:29
+msgid "Pins"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:30
+msgid "Location"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:43
+msgid "Coordinate"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:55
+msgid "Height"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:63
+msgid "Height (mobile)"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:71
+msgid "Zoom level"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:79
+msgid "Style JSON"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:80
+#, php-format
+msgid "Get pre-styled JSON from %s or create your own."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-google-maps/jackrose-so-google-maps.php:80
+msgid "Snazzy Maps"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:13
+msgid "Jack & Rose: Posts Grid"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:15
+msgid "Lists of posts in grid layout."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-posts-grid/jackrose-so-posts-grid.php:24
+msgid "Posts Query"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:13
+msgid "Jack & Rose: Quote"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:15
+msgid "Blockquote with citation."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:24
+msgid "Quotes"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:25
+msgid "Quote"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-quote/jackrose-so-quote.php:34
+msgid "Quote text"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-rsvp-form/jackrose-so-rsvp-form.php:13
+msgid "Jack & Rose: RSVP Form"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-rsvp-form/jackrose-so-rsvp-form.php:15
+msgid "RSVP form via Contact Form 7"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-rsvp-form/jackrose-so-rsvp-form.php:24
+msgid "Form"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-rsvp-form/jackrose-so-rsvp-form.php:25
+#, php-format
+msgid ""
+"Please install %s plugin and create a new form, and then select the form "
+"here."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:13
+msgid "Jack & Rose: Section Heading"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:15
+msgid "Big heading on sections."
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:24
+msgid "Heading"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:25
+msgid "Section Heading"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:29
+msgid "Heading color"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:34
+msgid "Subheading"
+msgstr ""
+
+#: siteorigin/widgets/jackrose-so-section-heading/jackrose-so-section-heading.php:38
+msgid "Subheading color"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-one-page.php:23 template-parts/content-page.php:21
+#: template-parts/content-single.php:29 template-parts/content.php:38
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-single.php:38
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:31
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
