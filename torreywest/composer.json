@@ -1,23 +1,18 @@
 {
-  "name": "roots/bedrock",
+  "name": "wordpress/torreywest",
   "type": "project",
   "license": "MIT",
-  "description": "A modern WordPress stack",
-  "homepage": "https://roots.io/bedrock/",
+  "description": "A professional photographer site, biult with bedrock and trellis.",
+  "homepage": "http://www.torreywest.com/",
   "authors": [
     {
-      "name": "Scott Walkinshaw",
-      "email": "scott.walkinshaw@gmail.com",
-      "homepage": "https://github.com/swalkinshaw"
-    },
-    {
-      "name": "Ben Word",
-      "email": "ben@benword.com",
-      "homepage": "https://github.com/retlehs"
+      "name": "DrOctogon",
+      "email": "droctogone@gmail.com",
+      "homepage": "https://github.com/droctogon"
     }
   ],
   "keywords": [
-    "bedrock", "roots", "wordpress", "stack", "composer", "vagrant", "wp"
+    "torreywest", "photographer", "wordpress"
   ],
   "support": {
     "issues": "https://github.com/roots/bedrock/issues",
@@ -37,7 +32,8 @@
     "composer/installers": "~1.0.12",
     "vlucas/phpdotenv": "^2.0.1",
     "johnpbloch/wordpress": "4.4.2",
-    "oscarotero/env": "^1.0"
+    "oscarotero/env": "^1.0",
+    "wpackagist-plugin/vimeography": "1.3.1"
   },
   "extra": {
     "installer-paths": {

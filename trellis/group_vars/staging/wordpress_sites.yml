@@ -2,9 +2,9 @@
 wordpress_sites:
   example.com:
     site_hosts:
-      - staging.example.com
+      - example.com
     local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
-    repo: git@github.com:example/example.com.git # replace with your Git repo URL
+    repo: git@github.com:DrOctogon/wp.git # replace with your Git repo URL
     branch: master
     repo_subtree_path: site # relative path to your Bedrock/WP directory in your repo
     multisite:
@@ -21,10 +21,112 @@ wordpress_sites:
       disable_wp_cron: true
       wp_home: http://staging.example.com
       wp_siteurl: http://staging.example.com/wp
-      wp_env: staging
+      wp_env: production
       db_name: example_staging
       db_user: example_dbuser
-      # Define the following variables in group_vars/staging/vault.yml
+      # Define the following variables in group_vars/production/vault.yml
+      # db_password:
+      # auth_key:
+      # secure_auth_key:
+      # logged_in_key:
+      # nonce_key:
+      # auth_salt:
+      # secure_auth_salt:
+      # logged_in_salt:
+      # nonce_salt:
+  sbfitt.com:
+    site_hosts:
+      - sbfitt.com
+    local_path: ../site # path targeting local Bedrock site directory (relative to Ansible root)
+    repo: git@github.com:DrOctogon/wp.git # replace with your Git repo URL
+    branch: master
+    repo_subtree_path: sbfitt # relative path to your Bedrock/WP directory in your repo
+    multisite:
+      enabled: false
+      subdomains: false
+    ssl:
+      enabled: false
+      # cert: ~/ssl/example.com.crt
+      # key: ~/ssl/example.com.key
+    cache:
+      enabled: false
+      duration: 30s
+    env:
+      disable_wp_cron: true
+      wp_home: http://staging.sbfitt.com
+      wp_siteurl: http://staging.sbfitt.com/wp
+      wp_env: production
+      db_name: sbfitt_staging
+      db_user: sbfitt_dbuser
+      # Define the following variables in group_vars/production/vault.yml
+      # db_password:
+      # auth_key:
+      # secure_auth_key:
+      # logged_in_key:
+      # nonce_key:
+      # auth_salt:
+      # secure_auth_salt:
+      # logged_in_salt:
+      # nonce_salt:
+  torreywest.com:
+    site_hosts:
+      - torreywest.com
+    local_path: ../torreywest # path targeting local Bedrock site directory (relative to Ansible root)
+    repo: git@github.com:DrOctogon/wp.git # replace with your Git repo URL
+    branch: master
+    repo_subtree_path: torreywest # relative path to your Bedrock/WP directory in your repo
+    multisite:
+      enabled: false
+      subdomains: false
+    ssl:
+      enabled: false
+      # cert: ~/ssl/example.com.crt
+      # key: ~/ssl/example.com.key
+    cache:
+      enabled: false
+      duration: 30s
+    env:
+      disable_wp_cron: true
+      wp_home: http://staging.torreywest.com
+      wp_siteurl: http://staging.torreywest.com/wp
+      wp_env: production
+      db_name: sbfitt_staging
+      db_user: sbfitt_dbuser
+      # Define the following variables in group_vars/production/vault.yml
+      # db_password:
+      # auth_key:
+      # secure_auth_key:
+      # logged_in_key:
+      # nonce_key:
+      # auth_salt:
+      # secure_auth_salt:
+      # logged_in_salt:
+      # nonce_salt:
+  tyandari.com:
+    site_hosts:
+      - tyandari.com
+    local_path: ../tyandari # path targeting local Bedrock site directory (relative to Ansible root)
+    repo: git@github.com:DrOctogon/wp.git # replace with your Git repo URL
+    branch: master
+    repo_subtree_path: tyandari # relative path to your Bedrock/WP directory in your repo
+    multisite:
+      enabled: false
+      subdomains: false
+    ssl:
+      enabled: false
+      # cert: ~/ssl/example.com.crt
+      # key: ~/ssl/example.com.key
+    cache:
+      enabled: false
+      duration: 30s
+    env:
+      disable_wp_cron: true
+      wp_home: http://staging.tyandari.com
+      wp_siteurl: http://staging.tyandari.com/wp
+      wp_env: production
+      db_name: tyandari_staging
+      db_user: tyandari_dbuser
+      # Define the following variables in group_vars/production/vault.yml
       # db_password:
       # auth_key:
       # secure_auth_key:
