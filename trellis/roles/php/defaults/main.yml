@@ -12,7 +12,7 @@ php_mysqlnd_collect_memory_statistics: 'Off'
 php_post_max_size: 25M
 php_sendmail_path: /usr/sbin/ssmtp -t
 php_session_save_path: /tmp
-php_upload_max_filesize: 25M
+php_upload_max_filesize: 250M
 php_track_errors: 'Off'
 php_default_timezone: '{{ default_timezone }}'
 
